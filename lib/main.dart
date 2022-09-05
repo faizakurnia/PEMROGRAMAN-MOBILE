@@ -95,7 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
-             Text(
+             Text( 
               'Faiza Kurnia Putri ',
             ),
             Text(
